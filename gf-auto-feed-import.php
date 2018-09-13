@@ -20,7 +20,6 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-//load_plugin_textdomain('gf-automatski-cenovnici', '', plugins_url() . '/gf-automatski-cenovnici/languages');
 
 function gf_auto_feed_import_options_create_menu()
 {
